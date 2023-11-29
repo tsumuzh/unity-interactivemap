@@ -1,0 +1,39 @@
+{
+    "regionData": [
+        {
+            "id": 0,
+            "name": "A区",
+            "capital": "a市"
+        },
+        {
+            "id": 1,
+            "name": "B区",
+            "capital": "b市"
+        },
+        {
+            "id": 2,
+            "name": "C区",
+            "capital": "c市"
+        },
+        {
+            "id": 3,
+            "name": "D区",
+            "capital": "d市"
+        },
+        {
+            "id": 4,
+            "name": "E区",
+            "capital": "e市"
+        },
+        {
+            "id": 5,
+            "name": "F区",
+            "capital": "f市"
+        },
+        {
+            "id": 6,
+            "name": "G区",
+            "capital": "g市"
+        }
+    ]
+}
